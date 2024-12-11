@@ -1,0 +1,5 @@
+production_name = "long-stg"
+enviroment = "stg"
+instance_type = "t3.micro"
+ami_id = "ami-09a81b370b76de6a2"
+vpc_name = "long-vpc-stg"
